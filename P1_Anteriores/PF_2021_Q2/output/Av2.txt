@@ -1,0 +1,80 @@
+#
+Cadastro 696 ok
+Cadastro 355 ok
+Cadastro 640 ok
+Cadastro 543 ok
+Cadastro 746 ok
+Cadastro 022 ok
+Cadastro 591 ok
+Cadastro 725 ok
+Cadastro 259 ok
+Cadastro 693 ok
+Cadastro 084 ok
+Cadastro 209 ok
+Cadastro 835 ok
+Cadastro 194 ok
+Cadastro 913 ok
+Cadastro 504 ok
+Cadastro 055 ok
+Cadastro 045 ok
+Cadastro 392 ok
+Cadastro 239 ok
+Cadastro 900 ok
+Cadastro 348 ok
+Cadastro 568 ok
+Cadastro 329 ok
+Cadastro 258 ok
+Cadastro 274 ok
+Cadastro 287 ok
+Cadastro 764 ok
+Cadastro 645 ok
+Cadastro 303 ok
+Cadastro 873 ok
+Cadastro 295 ok
+Cadastro 097 ok
+Cadastro 970 ok
+Cadastro 567 ok
+Cadastro 622 ok
+Cadastro 349 ok
+Cadastro 616 ok
+Cadastro 099 ok
+Cadastro 489 ok
+Cadastro 251 ok
+Cadastro 715 ok
+#
+Cadastro 853 ok
+Cadastro 868 ok
+#
+349 873 295 258 259 --- --- --- --- --- 725 --- --- --- --- 
+640 --- --- --- 239 --- --- --- --- --- 696 764 --- --- --- 
+099 --- --- --- 970 --- --- --- --- --- 568 --- 543 --- --- 
+055 --- --- --- 022 --- --- --- --- --- 616 --- --- 303 --- 
+853 --- --- --- 645 --- --- --- --- --- 329 --- --- --- 715 
+251 --- --- --- 622 --- --- --- --- --- 746 --- --- --- 209 
+693 --- --- --- 355 --- --- --- --- --- 900 --- --- 567 --- 
+591 --- --- --- 287 --- --- --- --- --- 084 --- 194 --- --- 
+045 --- --- --- 392 --- --- --- --- --- 835 504 --- --- --- 
+913 274 489 868 348 --- --- --- --- --- 097 --- --- --- --- 
+#
+715 - LIGA DA JUSTICA #21 vendida
+#
+489 - HOMEM-DE-FERRO #233 vendida
+504 - MULHER-MARAVILHA #144 vendida
+287 - QUARTETO FANTASTICO #21 vendida
+348 - TITANS #3 vendida
+194 - DEADPOOL #5 vendida
+251 - GUARDIOES DA GALAXIA #8 vendida
+725 - FLASH #5 vendida
+640 - HOMEM-ARANHA #34 vendida
+913 - VINGADORES #987 vendida
+274 - VINGADORES #13 vendida
+045 - VINGADORES #13 vendida
+568 - VENOM #13 vendida
+349 - LIGA DA JUSTICA #13 vendida
+900 - TITANS #144 vendida
+355 - HOMEM-ARANHA #55 vendida
+567 - QUARTETO FANTASTICO #2 vendida
+764 - HOMEM-ARANHA #13 vendida
+873 - X-MEN #233 vendida
+258 - X-MEN #233 vendida
+#

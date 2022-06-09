@@ -1,0 +1,32 @@
+Howl
+Tiros Errados: 72
+Tiros Acertados: 24
+Localizacao Media: (5.57,5.59)
+Desvio Padrao da Localizacao: 4.05
+Navios de Howl:
+11 - Battleship - ID 02
+18 - Battleship - ID 03
+27 - Carrier - ID 01
+96 - Carrier - ID 812134505
+31 - Cruiser - ID 04
+09 - Destroyer - ID 07
+12 - Destroyer - ID 09
+34 - Destroyer - ID 08
+41 - Destroyer - ID 10
+33 - Submarine - ID 06
+
+Sophie
+Tiros Errados: 69
+Tiros Acertados: 27
+Localizacao Media: (4.52,5.51)
+Desvio Padrao da Localizacao: 10.13
+Navios de Sophie:
+01 - Battleship - ID 03
+37 - Battleship - ID 02
+31 - Carrier - ID 01
+08 - Cruiser - ID 06
+04 - Destroyer - ID 08
+06 - Destroyer - ID 10
+09 - Destroyer - ID 09
+20 - Destroyer - ID 07
+12 - Submarine - ID 04

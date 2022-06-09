@@ -1,0 +1,3070 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de i2wl:
+
+c10:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Sophie:
+
+j1:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+h5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Sophie:
+
+b7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+d3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Sophie:
+
+i3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+j5:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+
+Jogada de Sophie:
+
+b9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+j7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+c2:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+g6:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+e10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+e9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . o . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+e2:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+c8:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+f4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. . . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . o
+. . . o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+a6:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+a2:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . o
+. . . o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+15:Jogada invalida! Jogue novamente i2wl:
+
+h1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . X . . . .
+o . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+g4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+f3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . . . . . . .
+. . . . . . . . o .
+. . o . . . . . . .
+. . . . . X . . . .
+o . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+d1:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+e7:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . . . . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . . .
+o . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+h1:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+d5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o . . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . . .
+o . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+e5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . . o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . o . . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+dd:Jogada invalida! Jogue novamente i2wl:
+
+g9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o . . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . .
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+b6:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . o . . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+i10:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o . . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+. . . . X . o . . .
+
+Jogada de Sophie:
+
+h8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . o . . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . . . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+j1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o . . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+o . . . X . o . . .
+
+Jogada de Sophie:
+
+e6:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . o o . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . . . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+d6:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o o . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+o . . . X . o . . .
+
+Jogada de Sophie:
+
+h3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . . . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . o o . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+j6:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o o . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+. . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+o . . . X o o . . .
+
+Jogada de Sophie:
+
+a7:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . . . . . . . . .
+. o . . o o . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+g1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . . . . . . X . X
+. . o . o o . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+o . . . X o o . . .
+
+Jogada de Sophie:
+
+d3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . .
+. o . . o o . . . o
+. . . o . . . . . .
+. . . o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+c3:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X . X
+. . o . o o . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+o . . . X o o . . .
+
+Jogada de Sophie:
+
+f5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . .
+. o . . o o . . . o
+. . . o o . . . . .
+. . . o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+c9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+. . o . o o . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o . . . . .
+. . . . . . . . . o
+o . . . X o o . . .
+
+Jogada de Sophie:
+
+g3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . .
+. o . . o o . . . o
+. . . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+h6:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+. . o . o o . . . .
+. . . . . . X . o .
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o . . . X o o . . .
+
+Jogada de Sophie:
+
+e8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+. X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . .
+. o . . o o . o . o
+. . . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+d9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+. . o . o o . . o .
+. . . . . . X . o .
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o . . . X o o . . .
+
+Jogada de Sophie:
+
+a1:Afundou Destroyer
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . .
+. o . . o o . o . o
+. . . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+r4:Jogada invalida! Jogue novamente i2wl:
+
+j2:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+. . o . o o . . o .
+. . . . . . X . o .
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+i8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . .
+. o . . o o . o . o
+. . . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . o . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+e10:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+. . o . o o . . o .
+. . . . . . X . o X
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+d10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. . . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . o . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+d1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+o . o . o o . . o .
+. . . . . . X . o X
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+f2:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . o . .
+o . . . . . . . . .
+
+Jogada de i2wl:
+
+d8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . . . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+j10:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . o . .
+o . . . . . . . . X
+
+Jogada de i2wl:
+
+b5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+. . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+i10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . . . .
+. . o o . . . . . .
+X . o . . . . o . .
+. . o . . . . o . o
+o . . . . . . . . X
+
+Jogada de i2wl:
+
+f1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . .
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+h6:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . . . .
+. . o o . . . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . . . . . . X
+
+Jogada de i2wl:
+
+a10:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. . . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+f8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . . . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . . . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . . . . . . X
+
+Jogada de i2wl:
+
+i2:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . . o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+b4:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . . . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . . . . . . X
+
+Jogada de i2wl:
+
+a9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . . . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+j5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . . . . . . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . . . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+i8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . . . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . o . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+c8:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . . . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . . . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+e5:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o . o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . o . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+5g:Jogada invalida! Jogue novamente Sophie:
+
+g6:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . . . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . X . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+d4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . o . o
+o o . . X o o . . .
+
+Jogada de Sophie:
+
+c5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . X . . . .
+X . o . . o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+j8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. . . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+h5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o . o o . . o . .
+. . o o . X . . . .
+X . o . o o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+a2:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . . o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+f3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X . o . o o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+h4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . . o . . . . .
+. . X . . . . X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+h2:Afundou Destroyer
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . . . o . . . . X
+
+Jogada de i2wl:
+
+c7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . . o . . . . .
+. . X . . . o X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+j4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . . o o . . . . X
+
+Jogada de i2wl:
+
+b4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o . . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+j8:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . . o o . . X . X
+
+Jogada de i2wl:
+
+g2:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . .
+o X . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+j3:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. . . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+f10:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . . . . o
+o X . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+b2:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X . . . . X . . .
+. o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+f7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . o . . o
+o X . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+a3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+. o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+. . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+f9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o . o o .
+. . . . X . X . o X
+o . o . . . o . o o
+o X . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+g1:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+. o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+o . o o . X . . . .
+X X o . o o . o . .
+. . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+d7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o o o o .
+. . . . X . X . o X
+o . o . . . o . o o
+o X . . . X . . o .
+o . . o o o . . . .
+. X . . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+rt:Jogada invalida! Jogue novamente Sophie:
+
+i1:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+. o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . .
+o . o o . X . . . .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+i3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. . . o o . . . . .
+. . X . . . o X o X
+o . o o o o o o o .
+. . . . X . X . o X
+o . o . . . o . o o
+o X . . . X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+f10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+. o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . o
+o . o o . X . . . .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+b2:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. . X . . . o X o X
+o . o o o o o o o .
+. . . . X . X . o X
+o . o . . . o . o o
+o X . . . X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+b1:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+o o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . o
+o . o o . X . . . .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+c2:Afundou Destroyer
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. X X . . . o X o X
+o . o o o o o o o .
+. . . . X . X . o X
+o . o . . . o . o o
+o X . . . X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+g9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+o o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . . o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+e3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. X X . . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . . X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+e4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+o o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X . X
+
+Jogada de i2wl:
+
+g5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. X X . . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+j9:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+o o . X . o o . o .
+. o . . o . . X . .
+X . o . . . . . . o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+c4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. X X o . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . . X o o o . .
+
+Jogada de Sophie:
+
+b10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+o o . X . o o . o o
+. o . . o . . X . .
+X . o . . . . . . o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+j4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. X X o . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . . . .
+. X o . . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+d9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . .
+o o . X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+h8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . . X . . o o
+. o . o o . . . . .
+. X X o . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . o . .
+. X o . . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+a10:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o . X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o . o o . o . .
+o . o . . . . o . o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+a5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . . . .
+. X X o . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . o . .
+. X o . . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+h4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o . X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o . o . .
+o . o . . . . o . o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+b8:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o .
+. . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . o . .
+. X o . . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+i9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o . X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o . o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o . o . .
+o . o . . . . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+gg:Jogada invalida! Jogue novamente i2wl:
+
+e1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o .
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . o . .
+. X o . . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+e9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o . X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o . o . .
+o . o . . . . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+i4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o .
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . o . .
+. X o o . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+b3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o o X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o . o . .
+o . o . . . . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+d10:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o . . o o o . o . .
+. X o o . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+i6:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o o X . o o . o o
+. o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o . o . .
+o . o . . o . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+h2:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o X . o o o . o . .
+. X o o . . . o . o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+c1:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o o X . o o . o o
+X o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o . o . .
+o . o . . o . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+i9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o X . o o o . o . .
+. X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+h7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X . . X
+o o o X . o o . o o
+X o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+i1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o X . o o o . o . .
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+a8:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o . o o
+X o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+h3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o .
+o X o o o o . o . .
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+b8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . . . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+g10:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . . o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o o
+o X o o o o . o . .
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+d5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o . X o o . . X X X
+
+Jogada de i2wl:
+
+c6:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o o
+o X o o o o . o . .
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+j7:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+. o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o . X o o . X X X X
+
+Jogada de i2wl:
+
+h10:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . . o o
+o X o o o o . o . o
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+e1:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+X o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o . X o o . X X X X
+
+Jogada de i2wl:
+
+g8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o . o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . o o o
+o X o o o o . o . o
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+ttt:Jogada invalida! Jogue novamente Sophie:
+
+j2:Afundou Destroyer
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+X o . o o o . o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+c5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . o o o
+o X o o o o . o . o
+o X o o . . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+e7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+X o . o o o o o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o . .
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+i5:Afundou Destroyer
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . . o . o o
+o X . . o X . o o o
+o X o o o o . o . o
+o X o o X . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+h9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+X o . o o o o o o o
+. o o o o . . o . o
+o . o o . X . . o .
+X X o o o o o o o .
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+f6:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . o o . o o
+o X . . o X . o o o
+o X o o o o . o . o
+o X o o X . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+g8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+X o . o o o o o o o
+. o o o o . . o . o
+o . o o . X . o o .
+X X o o o o o o o .
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+g3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o . o
+o X o o X . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+h10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o . . . o o
+X o . o o o o o o o
+. o o o o . . o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+h9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X . . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+d6:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o o . . o o
+X o . o o o o o o o
+. o o o o . . o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+i6:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . . o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+f7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X . o o o o o
+X o . . o . . X . .
+X . o . o o . . o o
+X o . o o o o o o o
+. o o o o . o o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+a4:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X . o X
+o . o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+b5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X o o o o o o
+X o . . o . . X . .
+X . o . o o . . o o
+X o . o o o o o o o
+. o o o o . o o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+e8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X o o X
+o . o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+d4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . . X X . X
+o o o X o o o o o o
+X o . . o . . X . .
+X . o o o o . . o o
+X o . o o o o o o o
+. o o o o . o o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+f2:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o . X . X o o X
+o X o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+a6:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . . o . . X . .
+X . o o o o . . o o
+X o . o o o o o o o
+. o o o o . o o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+8i8:Jogada invalida! Jogue novamente i2wl:
+
+e4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+. X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+c4:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o . . X . .
+X . o o o o . . o o
+X o . o o o o o o o
+. o o o o . o o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o . o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+c1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o . o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+i7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o . . X . .
+X . o o o o . . o o
+X o . o o o o o o o
+. o o o o . o o . o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+f8:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . .
+
+Jogada de Sophie:
+
+f9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o . . X . .
+X . o o o o . . o o
+X o . o o o o o o o
+. o o o o . o o o o
+o . o o . X . o o .
+X X o o o o o o o o
+o . o . . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+j10:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o . o
+
+Jogada de Sophie:
+
+g2:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o . . X . .
+X . o o o o . . o o
+X o . o o o o o o o
+. o o o o . o o o o
+o o o o . X . o o .
+X X o o o o o o o o
+o . o . . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+j9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X . .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o o o
+
+Jogada de Sophie:
+
+e3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o . . X . .
+X . o o o o . . o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X . o o .
+X X o o o o o o o o
+o . o . . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+b9:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o . o o o
+o X o o X o . o o o
+o o . o X o o o o o
+
+Jogada de Sophie:
+
+c6:Tiro!
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o X . X . .
+X . o o o o . . o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X . o o .
+X X o o o o o o o o
+o . o . . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+h7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X . X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o . o X o o o o o
+
+Jogada de Sophie:
+
+i4:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o X . X . .
+X . o o o o . . o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X . o o .
+X X o o o o o o o o
+o . o o . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+e6:Afundou Submarine
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o . . X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o . o X o o o o o
+
+Jogada de Sophie:
+
+d8:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o X . X . .
+X . o o o o . o o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X . o o .
+X X o o o o o o o o
+o . o o . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+b6:Afundou Destroyer
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . . o o
+. o . o o X . X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o . o X o o o o o
+
+Jogada de Sophie:
+
+g7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o X . X . .
+X . o o o o . o o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o . o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+a8:Afundou Cruiser
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . X o o
+. o . o o X . X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o . o X o o o o o
+
+Jogada de Sophie:
+
+i5:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X . X
+o o o X o o o o o o
+X o . X o X . X . .
+X . o o o o . o o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+r4r:Jogada invalida! Jogue novamente i2wl:
+
+j3:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . X o o
+. o . o o X . X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+a9:Afundou Battleship
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X X X
+o o o X o o o o o o
+X o . X o X . X . .
+X . o o o o . o o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+b7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X . X o o
+. o . o o X o X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+d2:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X X X
+o o o X o o o o o o
+X o . X o X . X . .
+X o o o o o . o o o
+X o o o o o o o o o
+. o o o o . o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+a7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X o X o o
+. o . o o X o X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+f6:Afundou Destroyer
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X X X
+o o o X o o o o o o
+X o . X o X . X . .
+X o o o o o . o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+b1:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X . X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+c7:Afundou Submarine
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X X X
+o o o X o o o o o o
+X o . X o X X X . .
+X o o o o o . o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+a3:Tiro!
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o . o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+d7:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X X X
+o o o X o o o o o o
+X o . X o X X X . .
+X o o o o o o o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+d2:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o o o o o o o o o X
+o . o o X X X o o X
+o X o . . o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+c10:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o . . o X X X X
+o o o X o o o o o o
+X o . X o X X X . o
+X o o o o o o o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+f5:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o o o o o o o o o X
+o . o o X X X o o X
+o X o . o o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+a4:Afundou Cruiser
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o X . o X X X X
+o o o X o o o o o o
+X o . X o X X X . o
+X o o o o o o o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+f4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o o o o o o o o o X
+o . o o X X X o o X
+o X o o o o o o o o
+o X o . o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+c9:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o X . o X X X X
+o o o X o o o o o o
+X o . X o X X X o o
+X o o o o o o o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o . X X X X
+
+Jogada de i2wl:
+
+g4:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o o o o o o o o o X
+o . o o X X X o o X
+o X o o o o o o o o
+o X o o o X . o o o
+o X o o o o o o o o
+o X o o X o . o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+j6:Afundou Carrier
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o X . o X X X X
+o o o X o o o o o o
+X o . X o X X X o o
+X o o o o o o o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o X X X X X
+
+Jogada de i2wl:
+
+i7:Agua
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o .
+o X X o o o o X o X
+o o o o o o o o o X
+o . o o X X X o o X
+o X o o o o o o o o
+o X o o o X . o o o
+o X o o o o o o o o
+o X o o X o o o o o
+o o o o X o o o o o
+
+Jogada de Sophie:
+
+c3:Agua
+
+Tabuleiro atual de i2wl apos a jogada de Sophie
+X X o X . o X X X X
+o o o X o o o o o o
+X o o X o X X X o o
+X o o o o o o o o o
+X o o o o o o o o o
+. o o o o X o o o o
+o o o o . X o o o .
+X X o o o o o o o o
+o . o o o o o o o o
+o X X o o X X X X X
+
+Jogada de i2wl:
+
+b10:Afundou Battleship
+
+Tabuleiro atual de Sophie apos a jogada de i2wl
+. X X X o X o X o o
+o o . o o X o X o X
+o X X o o o o X o X
+o o o 

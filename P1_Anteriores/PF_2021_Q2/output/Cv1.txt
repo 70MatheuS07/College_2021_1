@@ -1,0 +1,158 @@
+#
+Cadastro 010 ok
+Cadastro 626 ok
+Cadastro 271 ok
+Cadastro 694 ok
+Cadastro 384 ok
+Cadastro 530 invalido
+Cadastro 488 ok
+Cadastro 705 ok
+Cadastro 320 ok
+Cadastro 508 invalido
+#
+5 aquisicoes: 195,50 reais
+0 vendas: 0,00 reais
+Caixa atual: 195,50 reais de prejuizo
+#
+Cadastro 484 ok
+Cadastro 337 ok
+Cadastro 076 ok
+Cadastro 401 ok
+Cadastro 497 ok
+Cadastro 108 ok
+Cadastro 393 ok
+Cadastro 662 invalido
+Cadastro 484 invalido
+Cadastro 825 invalido
+Cadastro 339 ok
+#
+Cadastro 138 ok
+Cadastro 888 ok
+Cadastro 156 ok
+Cadastro 139 ok
+Cadastro 744 ok
+Cadastro 420 ok
+Cadastro 045 ok
+Cadastro 923 ok
+Cadastro 762 invalido
+Cadastro 313 invalido
+Cadastro 328 invalido
+Cadastro 132 ok
+Cadastro 655 ok
+Cadastro 596 ok
+Cadastro 066 invalido
+Cadastro 010 invalido
+Cadastro 979 ok
+Cadastro 497 invalido
+Cadastro 657 ok
+Cadastro 829 ok
+Cadastro 401 invalido
+Cadastro 622 ok
+Cadastro 892 ok
+Cadastro 800 ok
+#
+23 aquisicoes: 623,00 reais
+0 vendas: 0,00 reais
+Caixa atual: 623,00 reais de prejuizo
+#
+23 aquisicoes: 623,00 reais
+0 vendas: 0,00 reais
+Caixa atual: 623,00 reais de prejuizo
+#
+--- --- --- --- --- --- 484 488 156 497 271 --- --- --- --- 
+--- --- --- --- --- --- 888 --- --- --- 800 892 --- --- --- 
+--- --- --- --- --- --- 622 --- --- --- 979 --- 393 --- --- 
+--- --- --- --- --- --- 829 --- --- --- 626 --- --- 744 --- 
+--- --- --- --- --- --- 401 --- --- --- 108 --- --- --- 010 
+--- --- --- --- --- --- 705 --- --- --- 923 --- --- --- 694 
+--- --- --- --- --- --- 320 --- --- --- 045 --- --- 655 --- 
+--- --- --- --- --- --- 076 --- --- --- 139 --- 420 --- --- 
+--- --- --- --- --- --- 596 --- --- --- --- 384 --- --- --- 
+--- --- --- --- --- --- 138 339 132 337 657 --- --- --- --- 
+#
+Venda invalida
+384 - GUARDIOES DA GALAXIA #5 vendida
+156 - MANTO E ADAGA #1 vendida
+622 - MULHER-MARAVILHA #1 vendida
+320 - TITANS #3 vendida
+#
+23 aquisicoes: 623,00 reais
+3 vendas: 204,50 reais
+Caixa atual: 418,50 reais de prejuizo
+#
+800 - VENOM #3 vendida
+888 - BESOURO-AZUL E GLADIADOR-DOURADO #1 vendida
+Venda invalida
+705 - VINGADORES #233 vendida
+484 - X-MEN #2 vendida
+829 - JUSTICEIRO #13 vendida
+Venda invalida
+626 - X-MEN #377 vendida
+393 - NICK FURY E OS AGENTES DA SHIELD #13 vendida
+139 - FLASH #2 vendida
+Venda invalida
+Venda invalida
+132 - HOMEM-DE-FERRO #89 vendida
+979 - QUARTETO FANTASTICO #8 vendida
+923 - HULK #3 vendida
+Venda invalida
+401 - TITANS #3 vendida
+892 - SUPERMAN #1 vendida
+#
+--- --- --- --- --- --- --- 488 --- 497 271 --- --- --- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+--- --- --- --- --- --- --- --- --- --- --- --- --- 744 --- 
+--- --- --- --- --- --- --- --- --- --- 108 --- --- --- 010 
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- 694 
+--- --- --- --- --- --- --- --- --- --- 045 --- --- 655 --- 
+--- --- --- --- --- --- 076 --- --- --- --- --- 420 --- --- 
+--- --- --- --- --- --- 596 --- --- --- --- --- --- --- --- 
+--- --- --- --- --- --- 138 339 --- 337 657 --- --- --- --- 
+#
+23 aquisicoes: 623,00 reais
+15 vendas: 852,00 reais
+Caixa atual: 229,00 reais de lucro
+#
+Cadastro 166 ok
+Cadastro 225 ok
+Cadastro 445 ok
+Cadastro 800 invalido
+Cadastro 100 ok
+Cadastro 204 ok
+Cadastro 851 ok
+Cadastro 270 ok
+Cadastro 888 invalido
+Cadastro 093 invalido
+Cadastro 362 ok
+Cadastro 350 ok
+Cadastro 972 invalido
+#
+Cadastro 390 ok
+Cadastro 309 ok
+Cadastro 892 ok
+Cadastro 122 invalido
+Cadastro 162 ok
+Cadastro 277 ok
+Cadastro 260 ok
+Cadastro 779 ok
+Cadastro 375 invalido
+Cadastro 047 ok
+Cadastro 223 invalido
+Cadastro 560 ok
+#
+35 aquisicoes: 838,50 reais
+15 vendas: 852,00 reais
+Caixa atual: 13,50 reais de lucro
+#
+--- --- --- --- --- --- 362 488 560 497 271 --- --- --- --- 
+--- --- --- --- --- --- 162 --- --- --- 204 892 --- --- --- 
+--- --- --- --- --- --- 390 --- --- --- 270 --- 445 --- --- 
+--- --- --- --- --- --- 779 --- --- --- 277 --- --- 744 --- 
+--- --- --- --- --- --- 100 --- --- --- 108 --- --- --- 010 
+--- --- --- --- --- --- 047 --- --- --- 350 --- --- --- 694 
+--- --- --- --- --- --- 166 --- --- --- 045 --- --- 655 --- 
+--- --- --- --- --- --- 076 --- --- --- 851 --- 420 --- --- 
+--- --- --- --- --- --- 596 --- --- --- 225 309 --- --- --- 
+--- --- --- --- --- --- 138 339 260 337 657 --- --- --- --- 
+#

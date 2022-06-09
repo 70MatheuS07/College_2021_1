@@ -1,0 +1,198 @@
+Howl
+c10 - Tiro - Battleship - ID 03
+h5 - Agua
+d3 - Agua
+j5 - Tiro - Destroyer - ID 08
+j7 - Agua
+g6 - Tiro - Destroyer - ID 10
+e9 - Agua
+c8 - Tiro - Cruiser - ID 06
+a6 - Tiro - Destroyer - ID 09
+h1 - Agua
+f3 - Agua
+e7 - Tiro - Submarine - ID 04
+d5 - Agua
+g9 - Agua
+i10 - Agua
+j1 - Agua
+d6 - Agua
+j6 - Agua
+g1 - Agua
+c3 - Tiro - Destroyer - ID 07
+c9 - Agua
+h6 - Agua
+d9 - Agua
+j2 - Agua
+e10 - Tiro - Battleship - ID 03
+d1 - Agua
+d8 - Agua
+b5 - Agua
+f1 - Agua
+a10 - Agua
+i2 - Tiro - Carrier - ID 01
+a9 - Agua
+i8 - Agua
+e5 - Tiro - Submarine - ID 04
+d4 - Agua
+j8 - Agua
+a2 - Tiro - Battleship - ID 02
+h4 - Agua
+c7 - Agua
+b4 - Agua
+g2 - Tiro - Carrier - ID 01
+f10 - Agua
+f7 - Agua
+f9 - Agua
+d7 - Agua
+i3 - Agua
+b2 - Agua
+c2 - Tiro - Destroyer - ID 07
+e3 - Agua
+g5 - Agua
+c4 - Agua
+j4 - Agua
+h8 - Agua
+a5 - Agua
+b8 - Tiro - Cruiser - ID 06
+e1 - Agua
+i4 - Agua
+d10 - Tiro - Battleship - ID 03
+h2 - Tiro - Carrier - ID 01
+i9 - Agua
+i1 - Agua
+h3 - Agua
+g10 - Agua
+c6 - Agua
+h10 - Agua
+g8 - Agua
+c5 - Agua
+i5 - Tiro - Destroyer - ID 08
+f6 - Agua
+g3 - Agua
+h9 - Agua
+i6 - Agua
+a4 - Tiro - Battleship - ID 02
+e8 - Agua
+f2 - Tiro - Carrier - ID 01
+e4 - Agua
+c1 - Agua
+f8 - Agua
+j10 - Agua
+j9 - Agua
+b9 - Agua
+h7 - Agua
+e6 - Tiro - Submarine - ID 04
+b6 - Tiro - Destroyer - ID 09
+a8 - Tiro - Cruiser - ID 06
+j3 - Agua
+b7 - Agua
+a7 - Agua
+b1 - Agua
+a3 - Tiro - Battleship - ID 02
+d2 - Agua
+f5 - Agua
+f4 - Agua
+g4 - Agua
+i7 - Agua
+b10 - Tiro - Battleship - ID 03
+
+Sophie
+j1 - Agua
+b7 - Agua
+i3 - Agua
+b9 - Agua
+c2 - Agua
+e10 - Agua
+e2 - Agua
+f4 - Agua
+a2 - Tiro - Destroyer - ID 07
+g4 - Agua
+d1 - Tiro - Battleship - ID 02
+h1 - Tiro - Destroyer - ID 09
+e5 - Agua
+b6 - Agua
+h8 - Agua
+e6 - Agua
+h3 - Agua
+a7 - Tiro - Battleship - ID 03
+d3 - Agua
+f5 - Agua
+g3 - Agua
+e8 - Agua
+a1 - Tiro - Destroyer - ID 07
+i8 - Agua
+d10 - Agua
+f2 - Agua
+j10 - Tiro - Carrier - ID 01
+i10 - Agua
+h6 - Agua
+f8 - Agua
+b4 - Tiro - Cruiser - ID 04
+j5 - Agua
+c8 - Tiro - Submarine - ID 06
+g6 - Tiro - Destroyer - ID 08
+c5 - Agua
+h5 - Agua
+f3 - Agua
+h2 - Tiro - Destroyer - ID 09
+j4 - Agua
+j8 - Tiro - Carrier - ID 01
+j3 - Tiro - Destroyer - ID 10
+b2 - Agua
+a3 - Agua
+g1 - Agua
+i1 - Agua
+f10 - Agua
+b1 - Agua
+g9 - Agua
+e4 - Agua
+j9 - Tiro - Carrier - ID 01
+b10 - Agua
+d9 - Agua
+a10 - Tiro - Battleship - ID 03
+h4 - Agua
+i9 - Agua
+e9 - Agua
+b3 - Agua
+i6 - Agua
+c1 - Tiro - Battleship - ID 02
+h7 - Agua
+a8 - Tiro - Battleship - ID 03
+b8 - Agua
+d5 - Agua
+j7 - Tiro - Carrier - ID 01
+e1 - Tiro - Battleship - ID 02
+j2 - Tiro - Destroyer - ID 10
+e7 - Agua
+h9 - Agua
+g8 - Agua
+h10 - Agua
+d6 - Agua
+f7 - Agua
+b5 - Agua
+d4 - Agua
+a6 - Agua
+c4 - Tiro - Cruiser - ID 04
+i7 - Agua
+f9 - Agua
+g2 - Agua
+e3 - Agua
+c6 - Tiro - Submarine - ID 06
+i4 - Agua
+d8 - Agua
+g7 - Agua
+i5 - Agua
+a9 - Tiro - Battleship - ID 03
+d2 - Agua
+f6 - Tiro - Destroyer - ID 08
+c7 - Tiro - Submarine - ID 06
+d7 - Agua
+c10 - Agua
+a4 - Tiro - Cruiser - ID 04
+c9 - Agua
+j6 - Tiro - Carrier - ID 01
+c3 - Agua
+
+2 - Tiro - Carrier - ID 812134505
+
+Vencedor: Sophie
