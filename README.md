@@ -7,7 +7,7 @@ This repository contains materials, notes, and projects developed during my firs
 - **Program**: Computer Science
 - **Institution**: Federal University of Espírito Santo (UFES)
 - **Semester**: 1st semester
-- **Year**: 2025
+- **Year**: 2021
 
 ## 🗂️ Organization
 
