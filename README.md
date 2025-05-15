@@ -1,18 +1,18 @@
-# 📚 Primeiro Semestre da Faculdade
+# 📚 First Semester of College
 
-Este repositório contém materiais, anotações e projetos desenvolvidos durante o meu primeiro semestre da faculdade. O objetivo é organizar meus estudos, compartilhar conhecimento e acompanhar minha evolução acadêmica.
+This repository contains materials, notes, and projects developed during my first semester of college. The goal is to organize my studies, share knowledge, and track my academic progress.
 
-## 🏫 Curso
+## 🏫 Program
 
-- **Curso**: [Nome do Curso, ex: Ciência da Computação]
-- **Instituição**: [Nome da Faculdade ou Universidade]
-- **Semestre**: 1º semestre
-- **Ano**: 2025
+- **Program**: Computer Science
+- **Institution**: Federal University of Espírito Santo (UFES)
+- **Semester**: 1st semester
+- **Year**: 2025
 
-## 🗂️ Organização
+## 🗂️ Organization
 
-O repositório está dividido por disciplinas, com cada pasta contendo os seguintes itens:
-- Anotações de aula
-- Trabalhos e atividades
-- Códigos e exercícios
-- Materiais de apoio (PDFs, apresentações, links úteis)
+The repository is divided by subjects, with each folder containing the following items:
+- Class notes
+- Assignments and activities
+- Code and exercises
+- Supporting materials (PDFs, presentations, useful links)
